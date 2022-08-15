@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CarBody
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 7b317933fd18bb64e8cf5587491238c2, type: 3}
+    - {fileID: 2800000, guid: 38b5e9d05d8543f4d93cb0e38d3ce192, type: 3}
+    - {fileID: 2800000, guid: 7ae7b511a02131b4fa0792a486fca0ee, type: 3}
+    - {fileID: 2800000, guid: 6511f1d1d078bae45a157a5e12154f53, type: 3}
+    - {fileID: 2800000, guid: 2d51f1c5ef053b049833bc9ea8ba2b0e, type: 3}
+    - {fileID: 2800000, guid: 33c5726af547adf488700b3bea3603e9, type: 3}
+    - {fileID: 2800000, guid: aa9e93ef43baf234980ff36b3344bdb8, type: 3}
+    - {fileID: 2800000, guid: 2ef4c1988a1e5b1428a327552a0a5c66, type: 3}
+    - {fileID: 2800000, guid: 74358ad0a624565469f4b650691dc3ee, type: 3}
+    - {fileID: 2800000, guid: 91375fc7f836bde4c9982f81c7dee381, type: 3}
+    - {fileID: 2800000, guid: 3786386d961c222428fb44da3e2e4fd3, type: 3}
+    - {fileID: 2800000, guid: 34ba72a7c9188194fb23b0ab3268cf70, type: 3}
+    - {fileID: 2800000, guid: e0d32addf709d614db07074ca54e26b9, type: 3}
+    - {fileID: 2800000, guid: 2fbf1cb915fd71d43af3785f17e25136, type: 3}
+    - {fileID: 2800000, guid: de067b37d6d8ae14bbb1e3c73013addc, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
+  m_RenderDataMap: {}
+  m_Tag: CarBody
+  m_IsVariant: 0
